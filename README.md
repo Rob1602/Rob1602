@@ -3,7 +3,6 @@
 ![Header](./github-header-banner-2.png)
 <h2 align="center">✨ Projects ✨</h2>
 
-<h3 align="center">AI</h3>
 
 <p align="center">
   <a href="https://github.com/Rob1602/Single_cell_sequencing">
@@ -47,10 +46,4 @@
   </a>
 </p>
 
-<h3 align="center">Others </h3>
 
-<p align="center">
-  <a href="https://github.com/Rob1602/CastleWar">
-    <img src="https://img.shields.io/badge/CastleWar-4C1D95?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
