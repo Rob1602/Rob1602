@@ -14,6 +14,11 @@
   <a href="https://github.com/Rob1602/Thesis-project-presentation---Medical-Device-predicting-Multiple-Sclerosis-worsening">
     <img src="https://img.shields.io/badge/Bsc%20Thesis%20Project--MS%20Worsening%20Medical%20Device-9333EA?style=for-the-badge&logo=scikitlearn&logoColor=white">
   </a>
+
+
+  <a href="https://github.com/Rob1602/SentimentAnalysisNLP">
+    <img src="https://img.shields.io/badge/Pancreas%20Segmentation-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
+  </a>
   
 <p align="center">
   <a href="https://github.com/Rob1602/DeepLearning_Object-Recognition-with-CNN">
