@@ -11,6 +11,11 @@
   </a>
 
 <p align="center">
+  <a href="https://github.com/Rob1602/Single_cell_sequencing">
+    <img src="https://img.shields.io/badge/Bsc--Thesis--Project--Cell%20MS--Worseing--Medical--Device-9333EA?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  </a>
+  
+<p align="center">
   <a href="https://github.com/Rob1602/DeepLearning_Object-Recognition-with-CNN">
     <img src="https://img.shields.io/badge/Object%20Recognition%20with%20CNN-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
