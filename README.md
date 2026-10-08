@@ -16,7 +16,7 @@
   </a>
 
 
-  <a href="https://github.com/Rob1602/SentimentAnalysisNLP">
+  <a href="https://github.com/Rob1602/Pancreas_segmentation">
     <img src="https://img.shields.io/badge/Pancreas%20Segmentation-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
