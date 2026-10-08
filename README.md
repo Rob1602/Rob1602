@@ -11,8 +11,8 @@
   </a>
 
 <p align="center">
-  <a href="https://github.com/Rob1602/Single_cell_sequencing">
-    <img src="https://img.shields.io/badge/Bsc--Thesis--Project--Cell%20MS--Worseing--Medical--Device-9333EA?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <a href="[https://github.com/Rob1602/Single_cell_sequencing](https://github.com/Rob1602/Thesis-project-presentation---Medical-Device-predicting-Multiple-Sclerosis-worsening)">
+    <img src="https://img.shields.io/badge/Bsc%20Thesis%20Project--MS%20Worseing%20Medical%20Device-9333EA?style=for-the-badge&logo=scikitlearn&logoColor=white">
   </a>
   
 <p align="center">
